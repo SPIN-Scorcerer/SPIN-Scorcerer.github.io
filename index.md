@@ -1,6 +1,7 @@
-## Welcome to the SPIN-Scorcerer code repository
+<img align="left" src="https://SPIN-Scorcerer.github.io/256px-Magic_Hat.svg.png" alt="SPIN-Scorcerer Logo, a sorcerer's or wizard's pointed blue hat with yellow stars on it" style="margin: 5px 15px 5px 0px; height: 100px; width: 100px;">
 
-<img align="left" src="https://SPIN-Scorcerer.github.io/256px-Magic_Hat.svg.png" alt="SPIN-Scorcerer Logo, a sorcerer's or wizard's pointed blue hat with yellow stars on it" style="margin: 5px 15px 5px 0px; height: 100px; width: 100px;">This page maintains an index of SPIN-Scorcerer code. The software uses common NLP tools (e.g., Python's Pattern module) to analyze human-transcribed responses to speech in noise perception tasks.
+## Welcome to the SPIN-Scorcerer code repository
+This page maintains an index of SPIN-Scorcerer code. The software uses common NLP tools (e.g., Python's Pattern module) to analyze human-transcribed responses to speech in noise perception tasks.
 
 ### Projects
 
@@ -15,3 +16,6 @@
 
 - Bharath Chandrasekaran
 - Rachel Reetzke
+
+#### Licensing, Copyright, and Copyleft
+Unless otherwise noted, software available on this page is provided under the [GNU General Public License v3.0](https://www.gnu.org/licenses/old-licenses/gpl-3.0.en.html). The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. Redistribution of this code must also include (1) a copy of the enclosed license and copyright notice, (2) state what changes, if any, have been made to the code, (3) provide attribution to the authors of the code, in this case Meredith Riggs and the SPIN-Scorcerer Team, and (4) remain under the same GNU GPL v3.0 license.
