@@ -3,7 +3,7 @@
 
 ### Projects
 
-- Non-native SPIN 2018: [Stats Supplement](EAB_Supplement-Statistical_Analyses_in_R.pdf), [Code & Data Repository](https://github.com/SPIN-Scorcerer/Error-Analysis/)
+- Non-native SPIN 2018: [Preprint for JASA-EL](spin_IncompleteLanguage_preprint_20181230.pdf) | [Stats Supplement](EAB_Supplement-Statistical_Analyses_in_R.pdf) | [Code & Data Repository](https://github.com/SPIN-Scorcerer/Error-Analysis/)
 
 ### Development Team
 
