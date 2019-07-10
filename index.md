@@ -19,6 +19,7 @@
 
 - Bharath Chandrasekaran
 - Rachel Reetzke
+- Zilong Xie
 
 #### Licensing, Copyright, and Copyleft
 Unless otherwise noted, software available on this page is provided under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. Redistribution of this code must also include (1) a copy of the enclosed license and copyright notice, (2) state what changes, if any, have been made to the code, (3) provide attribution to the authors of the code, in this case the SPIN-Scorcerer Team, and (4) remain under the same GNU GPL v3.0 license.
