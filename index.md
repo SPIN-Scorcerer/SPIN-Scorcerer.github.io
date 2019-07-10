@@ -10,6 +10,7 @@
 
 **Abstract.** Speech perception in noise requires both bottom-up sampling of the stimulus and top-down reconstruction of the masked signal from a language model. Previous studies have provided mixed evidence about the exact role that linguistic knowledge plays in native and non-native listeners’ perception of masked speech. This paper describes an analysis of whole utterance, content word, and morphosyntactic error patterns to test the prediction that non-native listeners are uniquely affected by energetic and informational masks because of limited information at multiple linguistic levels. The results reveal a consistent disadvantage for non-native listeners at all three levels in challenging listening environments.
 
+---
 #### Impact of depression on speech perception in noise
 *Zilong Xie, Benjamin Zinszer, Meredith Riggs, Christopher G. Beevers, Bharath Chandrasekaran. (under review)*
 
