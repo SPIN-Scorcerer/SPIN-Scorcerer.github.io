@@ -3,6 +3,7 @@
 
 ### Projects
 
+---
 #### Error patterns of native and non-native listeners’ perception of speech in noise
 *Benjamin Zinszer, Meredith Riggs, Rachel Reetzke, & Bharath Chandrasekaran. (2019)*
 
@@ -18,6 +19,7 @@
 
 **Abstract.** Coming soon!
 
+---
 ### Development Team
 
 - [Meredith Riggs](https://github.com/mfriggs)
