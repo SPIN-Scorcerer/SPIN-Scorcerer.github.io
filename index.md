@@ -13,7 +13,7 @@
 
 ---
 #### Impact of depression on speech perception in noise
-*Zilong Xie, Benjamin Zinszer, Meredith Riggs, Christopher G. Beevers, Bharath Chandrasekaran. (under review)*
+*Zilong Xie, Benjamin Zinszer, Meredith Riggs, Christopher G. Beevers, Bharath Chandrasekaran. (in press at PLOS ONE)*
 
 [Article *coming soon!*]() | [Data Repository](https://github.com/SPIN-Scorcerer/Depression-SPIN-2019/)
 
