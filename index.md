@@ -17,7 +17,7 @@
 
 [Article *coming soon!*]() | [Data Repository](https://github.com/SPIN-Scorcerer/Depression-SPIN-2019/)
 
-**Abstract.** Coming soon!
+**Abstract.** Effective speech communication is critical to everyday quality of life and social well-being. In addition to the well-studied deficits in cognitive and motor function, depression also impacts communication. Here, we examined speech perception in individuals who were clinically diagnosed with major depressive disorder (MDD) relative to neurotypical controls. Forty-two normal-hearing (NH) individuals with MDD and 41 NH neurotypical controls performed sentence recognition tasks across three conditions with maskers varying in the extent of linguistic content (high, low, and none): 1-talker masker (1T), reversed 1-talker masker (1T_tr), and speech-shaped noise (SSN). Individuals with MDD, relative to neurotypical controls, demonstrated lower recognition accuracy in the 1T condition but not in the 1T_tr or SSN condition. To examine the nature of the listening condition-specific speech perception deficit, we analyzed speech recognition errors. Errors as a result of interference from masker sentences were higher for individuals with MDD (vs. neurotypical controls) in the 1T condition. This depression-related listening condition-specific pattern in recognition errors was not observed for other error types. We posit that this depression-related listening condition-specific deficit in speech perception may be related to heightened distractibility due to linguistic interference from background talkers.
 
 ---
 ### Development Team
