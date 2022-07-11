@@ -3,14 +3,14 @@
 
 ### Development Team
 
-- [Meredith Riggs](https://github.com/mfriggs), Carnegie Mellon Univ
-- [Benjamin Zinszer](https://github.com/bzinszer), Univ of Delaware & Princeton Univ
+- [Meredith Riggs](https://github.com/mfriggs), Carnegie Mellon University
+- [Benjamin Zinszer](https://github.com/bzinszer), Swarthmore College
 
 ### Other Contributors
 
-- Bharath Chandrasekaran, Univ of Pittsburgh
+- Bharath Chandrasekaran, University of Pittsburgh
 - Rachel Reetzke, Kennedy Krieger Institute
-- Zilong Xie, Univ of Maryland
+- Zilong Xie, University of Kansas Medical Center
 
 ---
 
